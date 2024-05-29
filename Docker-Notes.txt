@@ -1,0 +1,30 @@
+Containerisation Tool Docker :
+------------------------------
+
+--image
+--container
+--dockerhub
+--push and pulling images
+
+--what is Image ?
+
+	Linux Commands ------> Kernal
+
+-->docker image is light weight component
+-->image with no kernal
+
+   container-1 with no kernal
+
+-->docker Architecture :
+
+
+
+
+
+
+
+
+
+
+
+
